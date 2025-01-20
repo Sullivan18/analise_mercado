@@ -1,1 +1,0 @@
-worker: python analise_individual.py 
